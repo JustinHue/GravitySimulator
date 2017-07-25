@@ -10,7 +10,7 @@ public:
 	// Constructors
 	Projectile();
 
-	Projectile(double x, double y);
+	Projectile(double p_x, double p_y);
 
 	// Deconstructor
 	~Projectile();
